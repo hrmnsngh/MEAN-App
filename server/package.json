@@ -1,0 +1,16 @@
+{
+  "name": "mean-servere",
+  "version": "1.0.0",
+  "description": "Mean Stack App Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Harman Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.4.0",
+    "mongoose": "^5.8.1"
+  }
+}
